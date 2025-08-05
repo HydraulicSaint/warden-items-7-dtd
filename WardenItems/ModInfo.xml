@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
   <ModInfo>
-    <Name value="WardenExpansion"/>
-    <Description value="Adds Warden-tier gear, stack increases, and nailgun upgrades."/>
+    <Name value="WardenItems"/>
+    <Description value="Adds Warden-tier gear and nailgun upgrades."/>
     <Author value="Saint and Valkyrie"/>
     <Version value="1.0"/>
   </ModInfo>

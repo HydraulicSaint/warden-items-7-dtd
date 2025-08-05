@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="WardenStacks"/>
+    <Description value="Increases stack sizes for many items."/>
+    <Author value="Saint and Valkyrie"/>
+    <Version value="1.0"/>
+  </ModInfo>
+</xml>
