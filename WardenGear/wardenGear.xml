@@ -105,6 +105,7 @@
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="DegradationMax" operation="perc_add" value="0.5"/>
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
+            <passive_effect name="HarvestCount" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
         <property name="CreativeMode" value="Player"/>
@@ -116,6 +117,7 @@
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="DegradationMax" operation="perc_add" value="0.5"/>
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
+            <passive_effect name="HarvestCount" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
         <property name="CreativeMode" value="Player"/>
@@ -127,6 +129,7 @@
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="DegradationMax" operation="perc_add" value="0.5"/>
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
+            <passive_effect name="HarvestCount" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
         <property name="CreativeMode" value="Player"/>
@@ -149,6 +152,7 @@
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="DegradationMax" operation="perc_add" value="0.5"/>
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
+            <passive_effect name="HarvestCount" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
         <property name="CreativeMode" value="Player"/>
@@ -160,6 +164,7 @@
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="DegradationMax" operation="perc_add" value="0.5"/>
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
+            <passive_effect name="HarvestCount" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
         <property name="CreativeMode" value="Player"/>
@@ -182,6 +187,7 @@
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="DegradationMax" operation="perc_add" value="0.5"/>
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
+            <passive_effect name="HarvestCount" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
         <property name="CreativeMode" value="Player"/>
