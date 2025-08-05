@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modinfo>
-    <name value="Warden Items"/>
-    <description value="Adds Warden gear and increased stack sizes"/>
-    <author value="Unknown"/>
-    <version value="1.0.0"/>
-    <game version="Alpha 20.7 (b1)"/>
-</modinfo>
+<xml>
+  <ModInfo>
+    <Name value="WardenExpansion"/>
+    <Description value="Adds Warden-tier gear, stack increases, and nailgun upgrades."/>
+    <Author value="Saint and Valkyrie"/>
+    <Version value="1.0"/>
+  </ModInfo>
+</xml>
