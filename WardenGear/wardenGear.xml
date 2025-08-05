@@ -8,7 +8,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="gunBowT3CompoundBowWarden" extends="gunBowT3CompoundBow">
@@ -19,7 +19,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="gunBowT3CompoundCrossbowWarden" extends="gunBowT3CompoundCrossbow">
@@ -30,7 +30,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="gunExplosivesT3RocketLauncherWarden" extends="gunExplosivesT3RocketLauncher">
@@ -41,7 +41,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="gunHandgunT3DesertVultureWarden" extends="gunHandgunT3DesertVulture">
@@ -52,7 +52,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="gunHandgunT3SMG5Warden" extends="gunHandgunT3SMG5">
@@ -63,7 +63,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="gunMGT3M60Warden" extends="gunMGT3M60">
@@ -74,7 +74,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="gunRifleT3SniperRifleWarden" extends="gunRifleT3SniperRifle">
@@ -85,7 +85,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="gunShotgunT3AutoShotgunWarden" extends="gunShotgunT3AutoShotgun">
@@ -96,7 +96,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeToolAxeT3ChainsawWarden" extends="meleeToolAxeT3Chainsaw">
@@ -107,7 +107,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeToolFarmT1IronHoeWarden" extends="meleeToolFarmT1IronHoe">
@@ -118,7 +118,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeToolPickT3AugerWarden" extends="meleeToolPickT3Auger">
@@ -129,7 +129,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeToolRepairT3NailgunWarden" extends="meleeToolRepairT3Nailgun">
@@ -140,7 +140,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeToolSalvageT3ImpactDriverWarden" extends="meleeToolSalvageT3ImpactDriver">
@@ -151,7 +151,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeToolShovelT2SteelShovelWarden" extends="meleeToolShovelT2SteelShovel">
@@ -162,7 +162,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeWpnBatonT2StunBatonWarden" extends="meleeWpnBatonT2StunBaton">
@@ -173,7 +173,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeWpnBladeT3MacheteWarden" extends="meleeWpnBladeT3Machete">
@@ -184,7 +184,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeWpnClubT3SteelClubWarden" extends="meleeWpnClubT3SteelClub">
@@ -195,7 +195,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeWpnKnucklesT3SteelKnucklesWarden" extends="meleeWpnKnucklesT3SteelKnuckles">
@@ -206,7 +206,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeWpnSledgeT3SteelSledgehammerWarden" extends="meleeWpnSledgeT3SteelSledgehammer">
@@ -217,7 +217,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
     <item name="meleeWpnSpearT3SteelSpearWarden" extends="meleeWpnSpearT3SteelSpear">
@@ -228,7 +228,7 @@
             <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5"/>
         </effect_group>
         <property name="ModSlots" value="6"/>
-        <property name="CreativeMode" value="None"/>
+        <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
 </items>
