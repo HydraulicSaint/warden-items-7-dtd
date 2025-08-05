@@ -67,6 +67,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="gunBotT3JunkDrone" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunBowT3CompoundBowWarden" material="Mmetal">
@@ -161,6 +162,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="gunBowT3CompoundBow" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunBowT3CompoundCrossbowWarden" material="Mmetal">
@@ -251,6 +253,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="gunBowT3CompoundCrossbow" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunExplosivesT3RocketLauncherWarden" material="Mmetal">
@@ -335,6 +338,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="gunExplosivesT3RocketLauncher" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunHandgunT3DesertVultureWarden" material="Mmetal">
@@ -422,6 +426,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="gunHandgunT3DesertVulture" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunHandgunT3SMG5Warden" material="Mmetal">
@@ -513,6 +518,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="gunHandgunT3SMG5" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunMGT3M60Warden" material="Mmetal">
@@ -600,6 +606,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="gunMGT3M60" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunRifleT3SniperRifleWarden" material="Mmetal">
@@ -690,6 +697,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="gunRifleT3SniperRifle" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunShotgunT3AutoShotgunWarden" material="Mmetal">
@@ -775,6 +783,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="gunShotgunT3AutoShotgun" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeToolAxeT3ChainsawWarden" material="Mmetal">
@@ -856,6 +865,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeToolAxeT3Chainsaw" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeToolFarmT1IronHoeWarden" material="Mmetal">
@@ -924,6 +934,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeToolFarmT1IronHoe" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeToolPickT3AugerWarden" material="Mmetal">
@@ -1004,6 +1015,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeToolPickT3Auger" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeToolRepairT3NailgunWarden" material="Mmetal">
@@ -1089,7 +1101,6 @@
         <passive_effect name="SpreadDegreesVertical" operation="base_set" value=".3" />
         <passive_effect name="SpreadDegreesHorizontal" operation="base_set" value=".3" />
         <passive_effect name="IncrementalSpreadMultiplier" operation="base_set" value="0.5" />
-        <passive_effect name="AimDuration" operation="base_set" value="0.1" />
         <passive_effect name="SpreadMultiplierAiming" operation="base_set" value="0.3" />
       </effect_group>
       <property name="DisplayName" value="Warden Nailgun" />
@@ -1184,14 +1195,13 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeToolSalvageT3ImpactDriver" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeToolShovelT2SteelShovelWarden" material="Mmetal">
       <property name="Extends" value="meleeToolShovelT1IronShovel" />
       <property name="Tags" value="melee,grunting,medium,tool,longShaft,shovel,attStrength,perkMiner69r,perkMotherLode,canHaveCosmetic" />
       <property name="Meshfile" value="#Other/Items?Tools/shovel_steelPrefab.prefab" />
-      <property name="CustomIcon" value="meleeToolShovelT1IronShovel" />
-      <property name="CustomIconTint" value="a0a0ff" />
       <property name="RepairTools" value="resourceRepairKit" />
       <property name="EconomicValue" value="1000" />
       <property name="Material" value="Mmetal" />
@@ -1236,6 +1246,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeToolShovelT1IronShovel" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeWpnBatonT2StunBatonWarden" material="Mmetal">
@@ -1451,10 +1462,11 @@
         <passive_effect name="EntityDamage" operation="perc_add" value="0.5" />
         <passive_effect name="BlockDamage" operation="perc_add" value="0.5" />
         <passive_effect name="DegradationMax" operation="perc_add" value="0.5" />
-        <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5" />
+      <passive_effect name="AttacksPerMinute" operation="perc_add" value="0.5" />
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeWpnBatonT2StunBaton" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeWpnBladeT3MacheteWarden" material="Mmetal">
@@ -1553,6 +1565,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeWpnBladeT3Machete" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeWpnClubT3SteelClubWarden" material="Mmetal">
@@ -1642,6 +1655,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeWpnClubT3SteelClub" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeWpnKnucklesT3SteelKnucklesWarden" material="Mmetal">
@@ -1712,6 +1726,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeWpnKnucklesT3SteelKnuckles" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeWpnSledgeT3SteelSledgehammerWarden" material="Mmetal">
@@ -1799,6 +1814,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeWpnSledgeT3SteelSledgehammer" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="meleeWpnSpearT3SteelSpearWarden" material="Mmetal">
@@ -1851,6 +1867,7 @@
       </effect_group>
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
+      <property name="CustomIcon" value="meleeWpnSpearT3SteelSpear" />
       <property name="CustomIconTint" value="FFD700" />
     </item>
   </append>
