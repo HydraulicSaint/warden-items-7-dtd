@@ -1104,7 +1104,6 @@
         <passive_effect name="SpreadMultiplierAiming" operation="base_set" value="0.3" />
       </effect_group>
       <property name="DisplayName" value="Warden Nailgun" />
-      <property name="CustomIcon" value="meleeToolRepairT3Nailgun" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIconTint" value="FFD700" />
       <property name="EconomicValue" value="5000" />
