@@ -839,7 +839,7 @@
         <passive_effect name="DamageModifier" operation="perc_add" value="-.85" tags="stone" />
         <passive_effect name="DamageModifier" operation="perc_add" value="-.85" tags="metal" />
         <passive_effect name="BurstRoundCount" operation="base_set" value="1000" tags="perkMiner69r" />
-        <passive_effect name="MagazineSize" operation="base_set" value="300" tags="perkMiner69r" />
+        <passive_effect name="MagazineSize" operation="base_set" value="1000" tags="perkMiner69r" />
         <passive_effect name="ReloadSpeedMultiplier" operation="base_set" value="1" tags="perkMiner69r" />
         <passive_effect name="SpreadDegreesVertical" operation="base_set" value=".5" tags="perkMiner69r" />
         <passive_effect name="SpreadDegreesHorizontal" operation="base_set" value=".5" tags="perkMiner69r" />
@@ -989,7 +989,7 @@
         <passive_effect name="WeaponHandling" operation="perc_add" value="-.08,.08" tags="perkMiner69r" />
         <passive_effect name="DamageModifier" operation="perc_add" value="-.8" tags="wood" />
         <passive_effect name="BurstRoundCount" operation="base_set" value="1000" tags="perkMiner69r" />
-        <passive_effect name="MagazineSize" operation="base_set" value="300" tags="perkMiner69r" />
+        <passive_effect name="MagazineSize" operation="base_set" value="1000" tags="perkMiner69r" />
         <passive_effect name="ReloadSpeedMultiplier" operation="base_set" value="1" tags="perkMiner69r" />
         <passive_effect name="SpreadDegreesVertical" operation="base_set" value=".5" tags="perkMiner69r" />
         <passive_effect name="SpreadDegreesHorizontal" operation="base_set" value=".5" tags="perkMiner69r" />
