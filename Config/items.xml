@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configs>
     <append xpath="/items">
-    <item name="gunBotT3JunkDroneWarden" extends="gunBotT3JunkDrone">
+    <item name="gunBotT3JunkDroneWarden" extends="gunBotT3JunkDrone" material="Mmetal">
         <effect_group name="gunBotT3JunkDroneWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -12,7 +12,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="gunBowT3CompoundBowWarden" extends="gunBowT3CompoundBow">
+    <item name="gunBowT3CompoundBowWarden" extends="gunBowT3CompoundBow" material="Mmetal">
         <effect_group name="gunBowT3CompoundBowWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -23,7 +23,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="gunBowT3CompoundCrossbowWarden" extends="gunBowT3CompoundCrossbow">
+    <item name="gunBowT3CompoundCrossbowWarden" extends="gunBowT3CompoundCrossbow" material="Mmetal">
         <effect_group name="gunBowT3CompoundCrossbowWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -34,7 +34,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="gunExplosivesT3RocketLauncherWarden" extends="gunExplosivesT3RocketLauncher">
+    <item name="gunExplosivesT3RocketLauncherWarden" extends="gunExplosivesT3RocketLauncher" material="Mmetal">
         <effect_group name="gunExplosivesT3RocketLauncherWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -45,7 +45,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="gunHandgunT3DesertVultureWarden" extends="gunHandgunT3DesertVulture">
+    <item name="gunHandgunT3DesertVultureWarden" extends="gunHandgunT3DesertVulture" material="Mmetal">
         <effect_group name="gunHandgunT3DesertVultureWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -56,7 +56,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="gunHandgunT3SMG5Warden" extends="gunHandgunT3SMG5">
+    <item name="gunHandgunT3SMG5Warden" extends="gunHandgunT3SMG5" material="Mmetal">
         <effect_group name="gunHandgunT3SMG5Warden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -67,7 +67,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="gunMGT3M60Warden" extends="gunMGT3M60">
+    <item name="gunMGT3M60Warden" extends="gunMGT3M60" material="Mmetal">
         <effect_group name="gunMGT3M60Warden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -78,7 +78,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="gunRifleT3SniperRifleWarden" extends="gunRifleT3SniperRifle">
+    <item name="gunRifleT3SniperRifleWarden" extends="gunRifleT3SniperRifle" material="Mmetal">
         <effect_group name="gunRifleT3SniperRifleWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -89,7 +89,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="gunShotgunT3AutoShotgunWarden" extends="gunShotgunT3AutoShotgun">
+    <item name="gunShotgunT3AutoShotgunWarden" extends="gunShotgunT3AutoShotgun" material="Mmetal">
         <effect_group name="gunShotgunT3AutoShotgunWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -100,7 +100,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeToolAxeT3ChainsawWarden" extends="meleeToolAxeT3Chainsaw">
+    <item name="meleeToolAxeT3ChainsawWarden" extends="meleeToolAxeT3Chainsaw" material="Mmetal">
         <effect_group name="meleeToolAxeT3ChainsawWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -112,7 +112,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeToolFarmT1IronHoeWarden" extends="meleeToolFarmT1IronHoe">
+    <item name="meleeToolFarmT1IronHoeWarden" extends="meleeToolFarmT1IronHoe" material="Mmetal">
         <effect_group name="meleeToolFarmT1IronHoeWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -124,7 +124,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeToolPickT3AugerWarden" extends="meleeToolPickT3Auger">
+    <item name="meleeToolPickT3AugerWarden" extends="meleeToolPickT3Auger" material="Mmetal">
         <effect_group name="meleeToolPickT3AugerWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -136,8 +136,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeToolRepairT3NailgunWarden">
-        <property name="Extends" value="meleeToolRepairT3Nailgun"/>
+    <item name="meleeToolRepairT3NailgunWarden" extends="meleeToolRepairT3Nailgun" material="Mmetal">
         <property name="DisplayName" value="Warden Nailgun"/>
         <property name="CreativeMode" value="None"/>
         <property name="CustomIconTint" value="FFD700"/>
@@ -188,7 +187,7 @@
             <passive_effect name="SpreadMultiplierAiming" operation="base_set" value="0.3"/>
         </effect_group>
     </item>
-    <item name="meleeToolSalvageT3ImpactDriverWarden" extends="meleeToolSalvageT3ImpactDriver">
+    <item name="meleeToolSalvageT3ImpactDriverWarden" extends="meleeToolSalvageT3ImpactDriver" material="Mmetal">
         <effect_group name="meleeToolSalvageT3ImpactDriverWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -200,7 +199,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeToolShovelT2SteelShovelWarden" extends="meleeToolShovelT2SteelShovel">
+    <item name="meleeToolShovelT2SteelShovelWarden" extends="meleeToolShovelT2SteelShovel" material="Mmetal">
         <effect_group name="meleeToolShovelT2SteelShovelWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -212,7 +211,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeWpnBatonT2StunBatonWarden" extends="meleeWpnBatonT2StunBaton">
+    <item name="meleeWpnBatonT2StunBatonWarden" extends="meleeWpnBatonT2StunBaton" material="Mmetal">
         <effect_group name="meleeWpnBatonT2StunBatonWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -223,7 +222,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeWpnBladeT3MacheteWarden" extends="meleeWpnBladeT3Machete">
+    <item name="meleeWpnBladeT3MacheteWarden" extends="meleeWpnBladeT3Machete" material="Mmetal">
         <effect_group name="meleeWpnBladeT3MacheteWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -235,7 +234,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeWpnClubT3SteelClubWarden" extends="meleeWpnClubT3SteelClub">
+    <item name="meleeWpnClubT3SteelClubWarden" extends="meleeWpnClubT3SteelClub" material="Mmetal">
         <effect_group name="meleeWpnClubT3SteelClubWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -246,7 +245,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeWpnKnucklesT3SteelKnucklesWarden" extends="meleeWpnKnucklesT3SteelKnuckles">
+    <item name="meleeWpnKnucklesT3SteelKnucklesWarden" extends="meleeWpnKnucklesT3SteelKnuckles" material="Mmetal">
         <effect_group name="meleeWpnKnucklesT3SteelKnucklesWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -257,7 +256,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeWpnSledgeT3SteelSledgehammerWarden" extends="meleeWpnSledgeT3SteelSledgehammer">
+    <item name="meleeWpnSledgeT3SteelSledgehammerWarden" extends="meleeWpnSledgeT3SteelSledgehammer" material="Mmetal">
         <effect_group name="meleeWpnSledgeT3SteelSledgehammerWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
@@ -268,7 +267,7 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-    <item name="meleeWpnSpearT3SteelSpearWarden" extends="meleeWpnSpearT3SteelSpear">
+    <item name="meleeWpnSpearT3SteelSpearWarden" extends="meleeWpnSpearT3SteelSpear" material="Mmetal">
         <effect_group name="meleeWpnSpearT3SteelSpearWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
             <passive_effect name="BlockDamage" operation="perc_add" value="0.5"/>
