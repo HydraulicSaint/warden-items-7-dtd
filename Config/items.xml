@@ -1,5 +1,6 @@
-<?xml version="1.0" ?>
-<items>
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <append xpath="/items">
     <item name="gunBotT3JunkDroneWarden" extends="gunBotT3JunkDrone">
         <effect_group name="gunBotT3JunkDroneWarden">
             <passive_effect name="EntityDamage" operation="perc_add" value="0.5"/>
@@ -278,4 +279,5 @@
         <property name="CreativeMode" value="Player"/>
         <property name="CustomIconTint" value="FFD700"/>
     </item>
-</items>
+    </append>
+</configs>
