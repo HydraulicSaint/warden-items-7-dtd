@@ -17,7 +17,6 @@
       <property name="UnlockedBy" value="gunBotT3JunkDroneSchematic" />
       <property name="ShowQuality" value="true" />
       <property name="RepairTools" value="resourceRepairKit" />
-      <property name="TintColor" value="255,167,0" />
       <property class="Action1">
         <property name="Class" value="SpawnTurret" />
         <property name="Turret" value="entityJunkDrone" />
@@ -68,7 +67,6 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconDroneWarden" />
-      <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunBowT3CompoundBowWarden" material="Mmetal">
       <property name="Tags" value="weapon,ranged,bowDrawPenalty,archery,bow,attAgility,perkArchery,canHaveCosmetic" />
@@ -163,7 +161,6 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconBowWarden" />
-      <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunBowT3CompoundCrossbowWarden" material="Mmetal">
       <property name="Tags" value="weapon,ranged,holdBreathAiming,reloadPenalty,sideAttachments,smallTopAttachments,mediumTopAttachments,bottomAttachments,attAgility,perkArchery,crossbow,attachmentsIncluded,canHaveCosmetic" />
@@ -254,7 +251,6 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconCrossbowWarden" />
-      <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunExplosivesT3RocketLauncherWarden" material="Mmetal">
       <property name="Tags" value="weapon,ranged,holdBreathAiming,reloadPenalty,launcher,attPerception,perkDemolitionsExpert,canHaveCosmetic,barrelAttachments,noSilencer,sideAttachments,smallTopAttachments" />
@@ -339,7 +335,6 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconLauncherWarden" />
-      <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunHandgunT3DesertVultureWarden" material="Mmetal">
       <property name="Tags" value="weapon,ranged,revolver,holdBreathAiming,reloadPenalty,gun,shortRange,pistol,barrelAttachments,sideAttachments,smallTopAttachments,magazine,firingMode,attAgility,perkGunslinger,attachmentsIncluded,canHaveCosmetic" />
@@ -427,7 +422,6 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconPistolWarden" />
-      <property name="CustomIconTint" value="FFD700" />
     </item>
     <item name="gunHandgunT3SMG5Warden" material="Mmetal">
       <property name="Tags" value="weapon,ranged,holdBreathAiming,reloadPenalty,gun,shortRange,barrelAttachments,sideAttachments,smallTopAttachments,magazine,drumMagazine,firingMode,bottomAttachments,attAgility,perkGunslinger,9mmGun,attachmentsIncluded,canHaveCosmetic" />
@@ -519,7 +513,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconSMGWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="gunMGT3M60Warden" material="Mmetal">
       <property name="Tags" value="weapon,ranged,holdBreathAiming,reloadPenalty,gun,barrelAttachments,sideAttachments,smallTopAttachments,magazine,drumMagazine,bottomAttachments,mediumTopAttachments,attFortitude,perkMachineGunner,perkBookAutoWeapons,attachmentsIncluded,canHaveCosmetic" />
@@ -607,7 +601,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconMGWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="gunRifleT3SniperRifleWarden" material="Mmetal">
       <property name="Tags" value="weapon,ranged,holdBreathAiming,reloadPenalty,gun,barrelAttachments,sideAttachments,smallTopAttachments,mediumTopAttachments,largeTopAttachments,stock,magazine,firingMode,bottomAttachments,attPerception,perkDeadEye,attachmentsIncluded,canHaveCosmetic" />
@@ -698,7 +692,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconSniperWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="gunShotgunT3AutoShotgunWarden" material="Mmetal">
       <property name="Tags" value="weapon,ranged,holdBreathAiming,reloadPenalty,gun,shotgun,shortRange,barrelAttachments,sideAttachments,smallTopAttachments,noScopes,stock,magazine,drumMagazine,firingMode,bottomAttachments,attStrength,perkBoomstick,attachmentsIncluded,canHaveCosmetic" />
@@ -784,7 +778,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconShotgunWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeToolAxeT3ChainsawWarden" material="Mmetal">
       <property name="Tags" value="melee,heavy,tool,motorTool,attStrength,perkMiner69r,perkMotherLode,chainsaw,canHaveCosmetic" />
@@ -866,7 +860,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconChainsawWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeToolFarmT1IronHoeWarden" material="Mmetal">
       <property name="CreativeMode" value="None" />
@@ -935,7 +929,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="meleeToolFarmT1IronHoe" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeToolPickT3AugerWarden" material="Mmetal">
       <property name="Tags" value="melee,heavy,tool,motorTool,attStrength,perkMiner69r,perkMotherLode,miningTool,canHaveCosmetic" />
@@ -1016,7 +1010,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconAugerWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeToolRepairT3NailgunWarden" material="Mmetal">
       <property name="Tags" value="tool,nailgun,sideAttachments,repairTool,attStrength,perkMiner69r,canHaveCosmetic,noMods" />
@@ -1106,7 +1100,7 @@
       <property name="DisplayName" value="Warden Nailgun" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconGunNailgunWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
       <property name="EconomicValue" value="5000" />
       <property name="ShowQuality" value="true" />
       <property class="Action0">
@@ -1197,7 +1191,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconImpactDriverWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeToolShovelT2SteelShovelWarden" material="Mmetal">
       <property name="Extends" value="meleeToolShovelT1IronShovel" />
@@ -1248,7 +1242,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="meleeToolShovelT1IronShovel" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeWpnBatonT2StunBatonWarden" material="Mmetal">
       <property name="Tags" value="melee,grunting,light,perkFlurryOfBlows,weapon,meleeWeapon,attIntellect,perkElectrocutioner,canHaveCosmetic" />
@@ -1468,7 +1462,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="meleeWpnBatonT2StunBaton" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeWpnBladeT3MacheteWarden" material="Mmetal">
       <property name="Tags" value="machete,melee,grunting,light,longShaft,perkFlurryOfBlows,weapon,meleeWeapon,attAgility,perkDeepCuts,perkTheHuntsman,canHaveCosmetic" />
@@ -1567,7 +1561,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconWpnMacheteWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeWpnClubT3SteelClubWarden" material="Mmetal">
       <property name="Tags" value="blunt,club,melee,grunting,light,longShaft,perkFlurryOfBlows,weapon,meleeWeapon,attStrength,perkPummelPete,canHaveCosmetic" />
@@ -1657,7 +1651,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="meleeWpnClubT3SteelClub" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeWpnKnucklesT3SteelKnucklesWarden" material="Mmetal">
       <property name="Extends" value="meleeWpnKnucklesT1IronKnuckles" />
@@ -1728,7 +1722,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="meleeWpnKnucklesT3SteelKnuckles" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeWpnSledgeT3SteelSledgehammerWarden" material="Mmetal">
       <property name="Tags" value="blunt,melee,grunting,heavy,sledge,weapon,meleeWeapon,longShaft,attStrength,perkSkullCrusher,canHaveCosmetic" />
@@ -1816,7 +1810,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconSledgeWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
     <item name="meleeWpnSpearT3SteelSpearWarden" material="Mmetal">
       <property name="Extends" value="meleeWpnSpearT1IronSpear" />
@@ -1869,7 +1863,7 @@
       <property name="ModSlots" value="6" />
       <property name="CreativeMode" value="Player" />
       <property name="CustomIcon" value="iconSpearWarden" />
-      <property name="CustomIconTint" value="FFD700" />
+
     </item>
   </append>
 </configs>
